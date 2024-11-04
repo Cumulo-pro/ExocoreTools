@@ -70,6 +70,6 @@ You can download the Grafana dashboard from the links below:
 [![Grafana Dashboard](https://img.shields.io/badge/Grafana%20Dashboard-Download-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cumulo-pro/ExocoreTools/blob/main/monitoring/Exocore%20Dashboard%20by%20Cumulo-1730658412878.json)
 
 
-[![Grafana Dashboard Demo](https://img.shields.io/badge/Grafana%20Dashboard-Demo%20Online-blue?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/grafana/dashboards/22210-exocore-dashboard-by-cumulo/)
+[![Grafana Dashboard Demo](https://img.shields.io/badge/Grafana%20Dashboard-Official-blue?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/grafana/dashboards/22210-exocore-dashboard-by-cumulo/)
 ---
 
