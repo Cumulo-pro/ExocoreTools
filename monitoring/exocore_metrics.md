@@ -1,4 +1,4 @@
-# Metrics Documentation
+# Imua Documentation
 
 ## Table of Contents
 1. [Block Interval Time](#block-interval-time)
