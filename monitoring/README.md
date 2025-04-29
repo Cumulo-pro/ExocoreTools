@@ -1,4 +1,4 @@
-# Exocore Metrics and Grafana Dashboard
+# IMUA Metrics and Grafana Dashboard
 
 ![PortadaGithub Exocore-01 (2)](https://github.com/user-attachments/assets/ae42a373-49a7-420d-8094-c37039024dca)
 
