@@ -3,7 +3,7 @@
 ![PortadaGithub Exocore-01 (2)](https://github.com/user-attachments/assets/ae42a373-49a7-420d-8094-c37039024dca)
 
 
-This repository contains detailed information about Story metrics and the associated Grafana dashboard.  
+This repository contains detailed information about IMUA metrics and the associated Grafana dashboard.  
 
 ## First steps  
 
