@@ -61,7 +61,7 @@ Story metrics provide essential information for monitoring and evaluating the pe
 
 For a complete description of the available metrics, check out the metrics document below.
 
-[![Metrics](https://img.shields.io/badge/Metrics-View%20Metrics-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cumulo-pro/Story_protocol/blob/main/monitoring/story_metrics.md)
+[![Metrics](https://img.shields.io/badge/Metrics-View%20Metrics-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cumulo-pro/ExocoreTools/blob/main/monitoring/exocore_metrics.md)
 
 ## Grafana Dashboard
 
